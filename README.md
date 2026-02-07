@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lurvik215/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lurvik215/Leet-Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/lurvik215/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/lurvik215/Leet-Code/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lurvik215/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lurvik215/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lurvik215/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/lurvik215/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/lurvik215/Leet-Code/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
