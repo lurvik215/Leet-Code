@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lurvik215/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lurvik215/Leet-Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/lurvik215/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/lurvik215/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lurvik215/Leet-Code/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lurvik215/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lurvik215/Leet-Code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/lurvik215/Leet-Code/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lurvik215/Leet-Code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/lurvik215/Leet-Code/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lurvik215/Leet-Code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/lurvik215/Leet-Code/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/lurvik215/Leet-Code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/lurvik215/Leet-Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/lurvik215/Leet-Code/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -69,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lurvik215/Leet-Code/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lurvik215/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
